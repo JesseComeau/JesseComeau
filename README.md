@@ -6,6 +6,7 @@ Full Stack Web Developer
 
 * 🌍  I'm based in Milwaukee, WI
 * ✉️  You can contact me at [JesseC262@gmail.com](mailto:JesseC262@gmail.com)
+* Current [Portfolio](j-comeau.com)
 
 ### Skills
 
