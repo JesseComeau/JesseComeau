@@ -24,7 +24,6 @@ Full Stack Web Developer
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 </p>
 
 
@@ -36,10 +35,10 @@ Full Stack Web Developer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/JesseComeau"><img src="https://github-readme-stats.vercel.app/api?username=JesseComeau&show_icons=true&hide=stars,&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=10b981&bg_color=14532d&hide_border=true&show_icons=true" alt="JesseComeau's GitHub stats" /></a>
+<a href="http://www.github.com/JesseComeau"><img src="https://github-readme-stats.vercel.app/api?username=JesseComeau&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=171717&hide_border=true&show_icons=true" alt="JesseComeau's GitHub stats" /></a>
 
-<a href="https://github.com/JesseComeau" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesseComeau&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=10b981&bg_color=14532d&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/JesseComeau" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesseComeau&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/JesseComeau/ManyFest" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JesseComeau&repo=ManyFest&title_color=6366f1&text_color=ffffff&icon_color=10b981&bg_color=14532d&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/JesseComeau/ManyFest" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JesseComeau&repo=ManyFest&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=171717&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
